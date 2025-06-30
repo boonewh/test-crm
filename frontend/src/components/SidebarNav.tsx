@@ -94,11 +94,11 @@ function SidebarContent({
     >
       <div className="flex justify-center mb-4">
         {collapsed ? (
-          <img src="/logo-all-seasons-foam.png" alt="PS" className="w-8 h-auto" />
+          <img src="/crm_rocket_logo.png" alt="PS" className="w-8 h-auto" />
         ) : (
           <img
-            src="/logo-all-seasons-foam.png"
-            alt="All Seasons Foam Logo"
+            src="/pathsix_crm_logo.png"
+            alt="Main logo"
             className="max-w-[180px] h-auto"
           />
         )}
